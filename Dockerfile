@@ -1,1 +1,3 @@
-FROM
+FROM busybox
+
+CMD ["echo", "hi"]
